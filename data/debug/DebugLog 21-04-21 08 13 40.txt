@@ -1,0 +1,10 @@
+----------------
+Log initialized.
+----------------
+
+--------- Loading --------
+Settings complete.
+Menu complete.
+Audio complete.
+Maps complete.
+Textures complete.

@@ -1,0 +1,32 @@
+----------------
+Log initialized.
+----------------
+
+--------- Loading --------
+Settings complete.
+Menu complete.
+Audio complete.
+Maps complete.
+Textures complete.
+Error playing audio
+--------------------------
+
+
+--------- Audio --------
+javax.sound.sampled.UnsupportedAudioFileException: File of unsupported format
+	at java.desktop/javax.sound.sampled.AudioSystem.getAudioInputStream(AudioSystem.java:1066)
+	at textures.audio.AudioFile.getStream(AudioFile.java:59)
+	at textures.audio.AudioFile.access$6(AudioFile.java:54)
+	at textures.audio.AudioFile$2.run(AudioFile.java:145)
+	at java.base/java.lang.Thread.run(Thread.java:834)
+
+------------------------
+
+
+--------- Main --------
+Quitting Game...
+-----------------------
+
+-----------------
+End of debug log.
+-----------------

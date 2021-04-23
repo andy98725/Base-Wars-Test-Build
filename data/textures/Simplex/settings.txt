@@ -1,0 +1,30 @@
+// Resource name/plural
+RName: Gold
+RNamePlural: False
+// Background RGB
+Background: 0 0 0
+// Map selection panel background (for consistency)
+Scroll: 200 200 200
+// Tile RGB
+Tile: 127 127 127
+// Wall RGB
+Wall: 63 63 63
+// Water RGB
+Water: 0 0 200
+// Regular resource RGB
+Resource: 200 200 127
+// Rich resource RGB
+Rich: 200 127 127
+// Drained regular resource RGB
+DrainedResource: 100 100 75
+// Drained rich resource RGB
+DrainedRich: 100 75 75
+
+MenuOrder: 50
+
+TurnX: 0.05
+TurnW: 0.35
+TurnY: 0.05
+TurnH: 0.35
+CostY: 0.5625
+CostH: 0.45

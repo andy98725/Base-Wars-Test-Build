@@ -1,0 +1,62 @@
+----------------
+Log initialized.
+----------------
+
+--------- Loading --------
+Load succeeded on C:\Users\Andy\Projects\Base-Wars-3\data\maps\core\Boombox.bwm
+Load succeeded on C:\Users\Andy\Projects\Base-Wars-3\data\maps\core\Speedrunner.bwm
+Load succeeded on C:\Users\Andy\Projects\Base-Wars-3\data\maps\core\Zircon.bwm
+Load succeeded on C:\Users\Andy\Projects\Base-Wars-3\data\maps\extra\Bloom.bwm
+Load succeeded on C:\Users\Andy\Projects\Base-Wars-3\data\maps\extra\Three-Tie.bwm
+Load succeeded on C:\Users\Andy\Projects\Base-Wars-3\data\maps\extra\Zipper.bwm
+Audio complete.
+Load succeeded on C:\Users\Andy\Projects\Base-Wars-3\data\maps\multiplayer\Check.bwm
+Load succeeded on C:\Users\Andy\Projects\Base-Wars-3\data\maps\multiplayer\Pinpoint.bwm
+Load succeeded on C:\Users\Andy\Projects\Base-Wars-3\data\maps\multiplayer\X-Naut.bwm
+Maps complete.
+Textures complete.
+Adding Unit [SWORDSMAN, BLUE, 0] to map {Map null, BLUE}
+Adding Unit [BOWMAN, RED, 1] to map {Map null, BLUE}
+Turn 1 started for BLUE on map {Map null, BLUE}
+
+Game Started for Map {Map Moving and Attacking, BLUE}
+
+Executed event IngameEventMove [SWORDSMAN, BLUE, 0] (192.10486745058608, 506.86355658084517) to map {Map Moving and Attacking, NEUTRAL} in 0.006 seconds.
+Executed event IngameEventMove [SWORDSMAN, BLUE, 0] (192.10486745058608, 506.86355658084517) to map {Map Moving and Attacking, BLUE} in 0.0 seconds.
+Removing Unit [BOWMAN, RED, 1] from map {Map Moving and Attacking, NEUTRAL}
+Unit [BOWMAN, RED, 1] on map {Map Moving and Attacking, NEUTRAL} took 50 Points of damage.
+Unit [BOWMAN, RED, 1]Now has 0/50 health left.
+Executed event IngameEventMeleeAttack [SWORDSMAN, BLUE, 0] to map {Map Moving and Attacking, NEUTRAL} in 0.002 seconds.
+Removing Unit [BOWMAN, RED, 1] from map {Map Moving and Attacking, BLUE}
+Unit [BOWMAN, RED, 1] on map {Map Moving and Attacking, BLUE} took 50 Points of damage.
+Unit [BOWMAN, RED, 1]Now has 0/50 health left.
+Executed event IngameEventMeleeAttack [SWORDSMAN, BLUE, 0] to map {Map Moving and Attacking, BLUE} in 0.001 seconds.
+Adding Unit [NEXUS, BLUE, 2] to map {Map Moving and Attacking, NEUTRAL}
+Adding Unit [NEXUS, BLUE, 2] to map {Map Moving and Attacking, BLUE}
+Unit [NEXUS, RED, 3] on map {Map Moving and Attacking, NEUTRAL} took 50 Points of damage.
+Unit [NEXUS, RED, 3]Now has 50/100 health left.
+Adding Unit [NEXUS, RED, 3] to map {Map Moving and Attacking, NEUTRAL}
+Unit [NEXUS, RED, 3] on map {Map Moving and Attacking, BLUE} took 50 Points of damage.
+Unit [NEXUS, RED, 3]Now has 50/100 health left.
+Adding Unit [NEXUS, RED, 3] to map {Map Moving and Attacking, BLUE}
+Executed event IngameEventMove [SWORDSMAN, BLUE, 0] (385.86900000488237, 520.3660504327432) to map {Map Moving and Attacking, NEUTRAL} in 0.009 seconds.
+Executed event IngameEventMove [SWORDSMAN, BLUE, 0] (385.86900000488237, 520.3660504327432) to map {Map Moving and Attacking, BLUE} in 0.001 seconds.
+Unit [NEXUS, RED, 3] on map {Map Moving and Attacking, NEUTRAL} took 49 Points of damage.
+Unit [NEXUS, RED, 3]Now has 1/100 health left.
+Executed event IngameEventMeleeAttack [SWORDSMAN, BLUE, 0] to map {Map Moving and Attacking, NEUTRAL} in 0.011 seconds.
+Unit [NEXUS, RED, 3] on map {Map Moving and Attacking, BLUE} took 49 Points of damage.
+Unit [NEXUS, RED, 3]Now has 1/100 health left.
+Executed event IngameEventMeleeAttack [SWORDSMAN, BLUE, 0] to map {Map Moving and Attacking, BLUE} in 0.001 seconds.
+
+Game Ended for Map {Map Moving and Attacking, BLUE}
+
+--------------------------
+
+
+--------- Main --------
+Quitting Game...
+-----------------------
+
+-----------------
+End of debug log.
+-----------------

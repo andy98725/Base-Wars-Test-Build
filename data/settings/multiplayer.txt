@@ -1,0 +1,8 @@
+//Ingame Multiplayer Settings.
+hostingPort 21956
+clientIP 
+clientPort 21956
+spectators true
+useChat true
+userID 1618861071698
+username Player

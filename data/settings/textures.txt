@@ -1,0 +1,16 @@
+//Ingame Textures Settings.
+staticIcon true
+displayWinConditions false
+tooltipTransparent true
+textureTerr Basen
+parallax true
+movingBackground true
+textureUnits Basen
+fancyBackground false
+fullscreen false
+chatScrollRight true
+indicatorDetail 2
+animations true
+antiAlias false
+transparentUI true
+useNoise true

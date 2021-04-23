@@ -1,0 +1,20 @@
+----------------
+Log initialized.
+----------------
+
+--------- Loading --------
+Settings complete.
+Menu complete.
+Maps complete.
+Audio complete.
+Textures complete.
+--------------------------
+
+
+--------- Main --------
+Quitting Game...
+-----------------------
+
+-----------------
+End of debug log.
+-----------------
