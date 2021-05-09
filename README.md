@@ -5,4 +5,6 @@ python -m http.server 8080
 ```
 
 # Issues
-Can't find the data directory.
+```
+Uncaught ReferenceError: _c4pbMlaRcSd32fs12UnixCopyFile8transferE7 is not defined
+```
