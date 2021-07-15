@@ -1,9 +1,10 @@
-Actions
+Actions/
 Buttons.png
+ButtonsDown.png
 Controls.png
-HUD
+HUD/
 index.list
 Intro.png
-reinforce
-status
-symmetry
+reinforce/
+status/
+symmetry/

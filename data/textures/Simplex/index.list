@@ -1,9 +1,9 @@
-buildings
-gui
+buildings/
+gui/
 Icon.png
 index.list
 Mouse.png
 settings.txt
-terrain
+terrain/
 Title.png
-units
+units/
