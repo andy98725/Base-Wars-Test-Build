@@ -1,7 +1,7 @@
-campaign/
-fonts/
-gui/
+campaign
+fonts
+gui
 Icon.png
 index.list
-menu/
-noise/
+menu
+noise

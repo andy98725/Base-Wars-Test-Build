@@ -1,9 +1,5 @@
-audio/
-debug/
+audio
 index.list
-maps/
-replays/
-saves/
-settings/
-src/
-textures/
+maps
+src
+textures

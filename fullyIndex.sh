@@ -1,18 +1,17 @@
 #!/bin/bash
 
-
 listDir() {
 	echo "Scanning $1"
 	for f in $1/*
 	do
-		if [ -d $f ]
+		if [ -d "$f" ]
 		then
-			listDir $f
+			listDir "$f"
 		fi
 	done
 
-	rm $1/index.list
-	ls $1 > $1/index.list
+	rm "$1/index.list" 
+	ls "$1" > "$1/index.list"
 }
 
 echo data > index.list
