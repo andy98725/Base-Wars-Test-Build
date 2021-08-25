@@ -1,13 +1,12 @@
 # Build and Run
 ```
-chmod +x ./build.sh
-./build.sh
 python -m http.server 8080
 ```
 
 # Issues
-```
-The AudioContext was not allowed to start. It must be resumed (or created) after a user gesture on the page. https://goo.gl/7K7WLu
-```
+Laggy on startup
+(initial file access goes through network- could investigate custom build using .zip for file directory)
 
-Audio issue on game start.
+Framerate is subpar, usually 20-30 FPS
+
+Opening maps freezes the game
